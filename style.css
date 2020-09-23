@@ -1,0 +1,79 @@
+
+#pay{
+    
+    border-radius: 20px;
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    }
+#pay:hover{
+    background-color: darkblue;
+    color: white;
+    
+}
+.bt{
+    text-align: center;
+}
+h1{
+    color: tomato;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.details{
+    margin-top: 200px;
+ 
+    
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    top: 50px;
+   
+    background-image: url('1.jpg');
+    background-size: 100% 100%;
+    
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    color: white;
+    text-align: center;
+ }
+ 
+ /* h3{
+     text-align: center;
+     color: cornsilk;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ } */
+ .description{
+     background-color: black;
+ }
+.fname{
+    text-align: center;
+}
+
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.col{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.body-sec .container-fluid{
+    padding-left:0px;
+    padding-right:0px;
+}
+
+.heading-sec .container-fluid{
+    padding-left:0px;
+    padding-right:0px;
+}

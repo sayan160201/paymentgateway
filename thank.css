@@ -1,0 +1,26 @@
+.thank{
+    text-align: center;
+}
+.thanku{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+.image{
+    text-align: center;
+}
+.ty{
+    text-align: center;
+    
+        background-image: linear-gradient(blue, white);
+        animation-name: example;
+        animation-duration: 6s;
+        animation-iteration-count: infinite;
+    }
+    @keyframes example {
+        0%   {background-image: linear-gradient(rgb(2, 2, 46), white);}
+        25%  {background-image: linear-gradient(black, white);}
+        50%  {background-image: linear-gradient(rgb(14, 2, 43), white);}
+        100% {background-image: linear-gradient(rgb(3, 3, 32), white);}
+      
+}
